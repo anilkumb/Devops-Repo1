@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Dev2changes
-=======
-aaafsdgfgsdh
->>>>>>> 804634d5c2685efcb2becedeb23e8c9258f9f550
+Dev1Changes
