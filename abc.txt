@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Dev2changes - New
-=======
-Dev1Changes
->>>>>>> 0eea4c6e3bdbdb945d7192de4f5d9b5bd88427ae
